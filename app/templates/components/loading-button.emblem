@@ -1,0 +1,2 @@
+button.ladda-button data-style="expand-right" click='buttonPressed'
+    span.ladda-label Submit
